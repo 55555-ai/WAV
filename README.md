@@ -67,7 +67,6 @@ Visual Studio 2022
 <img width="2868" height="1694" alt="image" src="https://github.com/user-attachments/assets/391dd857-1fac-47fb-83e2-998c8a94628a" />
 
 
-
 ##使用技術
 
 - C#
@@ -76,7 +75,6 @@ Visual Studio 2022
 - OpenFileDialog
 - 事件驅動（Click Event）
 - Resources 資源管理
-
 
 
 ##專案架構
@@ -93,3 +91,15 @@ WAV
     ├── music.wav
     ├── music2.wav
     └── music.mp3
+
+## 開發紀錄
+
+本專案透過 GitHub 進行版本控制，  
+提交紀錄清楚記錄以下開發過程：
+- 建立 Windows Forms 介面
+- 加入 WAV 音效播放功能
+- 完成循環播放與停止功能
+- 新增播放狀態顯示
+- 加入播放狀態顯示
+- 美化使用者介面
+- 撰寫 README 與截圖說明
